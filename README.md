@@ -1,5 +1,5 @@
 <h1 align="center">Holaa 👋, Soy Lucas Julian Visa</h1>
-<h3 align="center">soy Full Stack de pais origen argentina</h3>
+<h3 align="center">soy Full Stack Developer en Búsqueda de Oportunidades</h3>
 <h4 align="center">🌱 Siempre en busca de nuevos desafíos y aprendizaje.</h4>
 
 <h4 align="center">💬 Mi objetivo es unirme a un equipo dinámico y orientado a resultados para aplicar mis conocimientos en un entorno práctico.</h4>
