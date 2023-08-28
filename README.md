@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lucas Julian Visa</h1>
-<h3 align="center">A passionate Full Stack from argentina</h3>
+<h1 align="center">Holaa 👋, Soy Lucas Julian Visa</h1>
+<h3 align="center">soy Full Stack de pais origen argentina</h3>
+<h4 align="center">🌱 Siempre en busca de nuevos desafíos y aprendizaje.</h4>
 
-- 🔭 I’m currently working on **personal project of a shift court (padel)**
+<h4 align="center">💬 Mi objetivo es unirme a un equipo dinámico y orientado a resultados para aplicar mis conocimientos en un entorno práctico.</h4>
 
-<h3 align="left">Connect with me:</h3>
+
+- 🔭 Actualmente estoy trabajando en **proyecto personal de una cancha de turnos (padel)
+
+<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-visa-157397261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-visa-157397261" height="30" width="40" /></a>
 </p>
